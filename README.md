@@ -106,4 +106,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-Follow me on | [LinkedIn](https://www.linkedin.com/in/makshat13/) | [GitHub](https://github.com/tonykipkemboi)
+Follow me on | [LinkedIn](https://www.linkedin.com/in/makshat13/) | [GitHub](https://github.com/Akshatm13)
